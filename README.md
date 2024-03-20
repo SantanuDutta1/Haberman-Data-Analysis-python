@@ -6,7 +6,7 @@ The project delves into performing exploratory data analysis (EDA) on the Haberm
 The Haberman's Survival Dataset comprises attributes related to patients who had undergone surgery for breast cancer, including age, year of operation, number of positive axillary nodes detected, and survival status. The dataset aims to facilitate analysis and prediction of survival rates based on these attributes.
  
  <p align="center">
-  <img width="600" height="350" src="Global Terrorism EDA/96670ti1.jpg">
+  <img width="600" height="350" src="images.jpeg">
 </p>
 
 ## Project Objectives
